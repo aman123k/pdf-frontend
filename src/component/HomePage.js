@@ -63,7 +63,7 @@ function HomePage() {
             </Link>
           </div>
         </form>
-        <div>
+        <div className=" mt-7">
           <h1 className="font-bold text-[#261700] text-xl mb-2">
             Summarize Content
           </h1>
